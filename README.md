@@ -8,8 +8,10 @@
 
 ## Kullanılan Teknolojiler
 
-![Image of Eclipse](https://www.pngkit.com/png/detail/223-2231671_eclipse-is-one-of-the-most-popular-and.png "Eclipse")
-![Image of Java](https://yazilimamelesi.files.wordpress.com/2013/03/java_logo.jpg "Java")
+  + Eclipse
+  + Java
+
+![Image of Eclipse](https://www.kodlamamerkezi.com/wp-content/uploads/2014/08/java-eclipse.jpg)
 
 ## Proje Tanımı
 
